@@ -13,7 +13,7 @@ In this sample, we illustrate how to read and display data from a dataset. Addit
 ---
 #### Configuring the Sample application:
 
-1. Download the Northwind database here and restore it.
+1. Download the Northwind database [here](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/downloading-sample-databases?redirectedfrom=MSDN) and restore it.
 2. Open the DataGridAddEdit application with the Stadium Designer.
 3. Expand Connectors in the Application Explorer panel.
 4. Update the NorthwindDatabaseConnector Connection String in the Properties panel according to your environment setup.
