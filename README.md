@@ -1,6 +1,6 @@
-> ### [Stadium](https://stadium.software/) solution containing real world examples (CRUD: Create, Read, Update & Delete) using SQL SERVER and Nothwnd as database.
+### CRUD: Create, Read, Update & Delete
 
-In this sample, we illustrate how to read and display data from a dataset. Additionally, we illustrate how to manipulate the dataset by creating, updating and deleting records in it.
+In this [Stadium](https://stadium.software/) sample, we show you how to display data in a DataGrid. Additionally, we illustrate how to manipulate the data by creating, updating and deleting records in it. To do this, we used a real world example together with SQL Server and the Northwind database.
 
 #### Sample Highlights:
 
