@@ -1,6 +1,6 @@
 ### CRUD: Create, Read, Update & Delete
 
-In this [Stadium](https://stadium.software/) sample, we show you how to display data in a DataGrid. Additionally, we illustrate how to manipulate the data by creating, updating and deleting records in it. To do this, we used a real world example together with SQL Server and the Northwind database.
+In this [Stadium](https://stadium.software/) sample, we show you how to display data in a [DataGrid](https://stadium.software/docs/Controls/DataGrid). Additionally, we illustrate how to manipulate the data by creating, updating and deleting records in it. To do this, we used a real world example together with SQL Server and the Northwind database.
 
 #### Sample Highlights:
 
